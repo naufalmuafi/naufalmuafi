@@ -125,30 +125,38 @@
 <a href="https://medium.com/naufalmuafi" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=naufalmuafi&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naufalmuafi&&style=flat-square" align="center" />
             <a href="https://paypal.me/naufalmuafi" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
             </a></div>
-<br />
+</div>  
+
+<br/>
+  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5ls5cvon3xxyda9u6p90wd7er&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+
 
 ## My Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=naufalmuafi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=naufalmuafi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<br/>
+<div align="center">  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naufalmuafi&theme=nord_bright" alt="GitHub Profile Summary Card">
+
+  <!-- Row 1 -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naufalmuafi&theme=nord_bright">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naufalmuafi&theme=nord_bright">
+  <!-- Row 2 -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naufalmuafi&theme=nord_bright">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naufalmuafi&theme=nord_bright&utcOffset=7">
+</div>
+
+<br/> 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">best regards, Naufal Mu'afi</div>
