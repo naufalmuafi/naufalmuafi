@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Optimization Engineering](https://github.com/TK-Bunga-Matahari/shinchan) as a Data Scientist Intern at Telkom Indonesia  
   
 
-- 🌱 I'm deepening my expertise in Data Science and expanding my knowledge into Data Engineering  
+- 🌱 I'm deepening my expertise in Data Science and expanding my knowledge into Data and AI Engineering  
   
 
 - ❓ Ask me about anything related to Data, AI, Robotics, or even Visual Graphics  
